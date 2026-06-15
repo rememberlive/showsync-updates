@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "build": "1",
+  "minMacOS": "13.0",
+  "url": "https://remberlive.africa/showsync",
+  "notes": "ShowSync 1.0"
+}
