@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "build": "200",
+  "minMacOS": "13.0",
+  "url": "https://rememberlive.africa/showsync",
+  "notes": "ShowSync 2.0"
+}
